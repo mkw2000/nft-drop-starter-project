@@ -1,0 +1,19 @@
+{
+    "name": "Bieber",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "2z2P41GqKsToJNoAGchgeXLjDgnfBMj9yNP9LYVL1Aar",
+          "share": 100
+        }
+      ]
+    }
+  }

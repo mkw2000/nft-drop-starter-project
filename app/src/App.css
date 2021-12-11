@@ -1,9 +1,10 @@
 .App {
   height: 100vh;
-  background-color: rgb(20, 20, 20);
+  background-color: #ebcfec;
   overflow: scroll;
   text-align: center;
   overflow: hidden;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 .container {
@@ -32,14 +33,16 @@
   margin: 0;
   font-size: 50px;
   font-weight: bold;
+  color:#c267c2
 }
 
 .sub-text {
   font-size: 25px;
+  color:#8d80db;
 }
 
 .gradient-text {
-  background: -webkit-linear-gradient(left, #60c657 30%, #35aee2 60%);
+  background: -webkit-linear-gradient(left, #9bf6ff 30%, #ffc6ff 60%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -58,17 +61,20 @@
 }
 
 .connect-wallet-button {
-  color: white;
-  background: -webkit-linear-gradient(left, #ff8867, #ff52ff);
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: #4e44ce;
+  background: -webkit-linear-gradient(left, #9bf6ff, #832983);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
 }
 
 .mint-button {
-  background: -webkit-linear-gradient(left, #4e44ce, #35aee2);
+  color: #4e44ce;
+  background: -webkit-linear-gradient(left, #ffc6ff, #9bf6ff);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
   margin-left: 10px;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 .footer-container {
@@ -90,7 +96,7 @@
 .footer-text {
   font-size: 16px;
   font-weight: bold;
-  color: white;
+  color: #1d3557;
 }
 
 .connected-container input[type='text'] {
@@ -108,6 +114,8 @@
 
 .connected-container button {
   height: 50px;
+  
+
 }
 
 /* KeyFrames */

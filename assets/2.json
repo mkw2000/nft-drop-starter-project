@@ -1,0 +1,19 @@
+{
+    "name": "LA",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "2z2P41GqKsToJNoAGchgeXLjDgnfBMj9yNP9LYVL1Aar",
+          "share": 100
+        }
+      ]
+    }
+  }
